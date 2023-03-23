@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prasannabiswas](https://github.com/prasannabiswas)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **C++, React, Web design**
 
-- 📫 How to reach me **probiswas82@gmail.com**
+- 📫 Reach me through **probiswas82@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z2xJT9AIjT2XZHmV9WvloiKz8FxiUlcP/view?usp=share_link](https://drive.google.com/file/d/1Z2xJT9AIjT2XZHmV9WvloiKz8FxiUlcP/view?usp=share_link)
 
