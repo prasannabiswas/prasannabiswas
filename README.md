@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web3 apps**
 
-- 🌱 I’m currently learning **MongodDB, Mongoose, Express, Next.js**
+- 🌱 I’m currently learning **Next.js, Three.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prasannabiswas](https://github.com/prasannabiswas)
 
