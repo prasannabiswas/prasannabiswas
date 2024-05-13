@@ -11,7 +11,7 @@
 
 - 📫 Reach me through **probiswas82@gmail.com**
 
-- 📄 CV [[My Resume](https://drive.google.com/file/d/1XVzP2-0t-uYmhfFcFcx30NO5xNtUqFN_/view?usp=sharing)]([https://drive.google.com/file/d/1Z2xJT9AIjT2XZHmV9WvloiKz8FxiUlcP/view?usp=share_link](https://drive.google.com/file/d/1XVzP2-0t-uYmhfFcFcx30NO5xNtUqFN_/view?usp=sharing))
+- 📄 CV [[My Resume](https://drive.google.com/file/d/1XVzP2-0t-uYmhfFcFcx30NO5xNtUqFN_/view?usp=sharing)]
 
 <h3 align="left">Web Profiles:</h3>
 <p align="left">
