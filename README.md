@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Biswas</h1>
 <h3 align="center">I am a curious Fullstack Software Developer</h3>
 
-- 🔭 I’m currently working on **Web3 apps**
+- 🔭 I’m currently working on **Web3, Solana**
 
 - 🌱 I’m currently learning **Next.js, Three.js, Typescript, Solana, Rust**
 
