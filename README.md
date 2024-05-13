@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Web3 apps**
 
-- 🌱 I’m currently learning **Next.js, Three.js**
+- 🌱 I’m currently learning **Next.js, Three.js, Typescript, Solana, Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prasannabiswas](https://github.com/prasannabiswas)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://prasanna-profolio.netlify.app/projects)
 
 - 💬 Ask me about **C++, React, Web design**
 
 - 📫 Reach me through **probiswas82@gmail.com**
 
-- 📄 CV [https://drive.google.com/file/d/1Z2xJT9AIjT2XZHmV9WvloiKz8FxiUlcP/view?usp=share_link](https://drive.google.com/file/d/1Z2xJT9AIjT2XZHmV9WvloiKz8FxiUlcP/view?usp=share_link)
+- 📄 CV [My Resume]([https://drive.google.com/file/d/1Z2xJT9AIjT2XZHmV9WvloiKz8FxiUlcP/view?usp=share_link](https://drive.google.com/file/d/1XVzP2-0t-uYmhfFcFcx30NO5xNtUqFN_/view?usp=sharing))
 
 <h3 align="left">Web Profiles:</h3>
 <p align="left">
